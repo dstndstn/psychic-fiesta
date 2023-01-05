@@ -3,6 +3,8 @@ Dog
 Cat
 Goldfish
 Iguana
+Turtle
+Monkey
 
 Names for pets
 Fluffy
