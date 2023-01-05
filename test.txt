@@ -6,6 +6,7 @@ Iguana
 Turtle
 Monkey
 Hamster
+Pirhanna
 
 Names for pets
 Fluffy
