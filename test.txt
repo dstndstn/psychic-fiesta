@@ -5,6 +5,7 @@ Goldfish
 Iguana
 Turtle
 Monkey
+Hamster
 
 Names for pets
 Fluffy
