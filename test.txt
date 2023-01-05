@@ -5,6 +5,7 @@ Goldfish
 Iguana
 Turtle
 Monkey
+Pirhanna
 
 Names for pets
 Fluffy
